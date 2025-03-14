@@ -12,7 +12,7 @@
             ],
             "liveries": [
                 {
-                    "name": "Yellow",
+                    "name": "红色",
                     "texture": [
                         "/models/aircraft/premium/cub/texture_0.jpg"
                     ],
@@ -281,7 +281,7 @@
             ],
             "liveries": [
                 {
-                    "name": "Armee de L'air - Patrouille de France",
+                    "name": "法兰西巡逻兵（法国空军飞行表演队）",
                     "credits": "GeoFS",
                     "texture": [
                         "/models/aircraft/premium/alphajet_paf/alpha02_T.jpg",
@@ -289,7 +289,7 @@
                     ]
                 },
                 {
-                    "name": "Red Bull - Flying Bulls Aerobaric Team",
+                    "name": "红牛特技飞行队",
                     "credits": "Sebastian Hecker",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/alphajet/redbull/alpha02_T.bmp",
@@ -305,7 +305,7 @@
                     ]
                 },
                 {
-                    "name": "Qatar Emiri Air Force",
+                    "name": "卡塔尔空军",
                     "credits": "Vansh-Vviation",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/alphajet/qatar/fuselage.png",
@@ -313,7 +313,7 @@
                     ]
                 },
                 {
-                    "name": "Belgian Air Force",
+                    "name": "比利时空军",
                     "credits": "Jeffa",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/alphajet/belgianairforce/Belgium_Alphajet_Fuselage.png",
@@ -338,7 +338,7 @@
             ],
             "liveries": [
                 {
-                    "name": "KLM (old design)",
+                    "name": "荷兰皇家航空 (old design)",
                     "texture": [
                         "/models/aircraft/premium/737_700/specular.jpg",
                         "/models/aircraft/premium/737_700/texture_0.jpg"
@@ -346,7 +346,7 @@
                     "credits": "GeoFS"
                 },
                 {
-                    "name": "United (old design)",
+                    "name": "美国联合航空（old design)",
                     "texture": [
                         "/models/aircraft/premium/737_700/specular.jpg",
                         "/models/aircraft/premium/737_700/texture_1.jpg"
@@ -354,7 +354,7 @@
                     "credits": "GeoFS"
                 },
                 {
-                    "name": "ANA",
+                    "name": "全日空航空",
                     "texture": [
                         "/models/aircraft/premium/737_700/specular.jpg",
                         "/models/aircraft/premium/737_700/texture_2.jpg"
@@ -362,7 +362,7 @@
                     "credits": "GeoFS"
                 },
                 {
-                    "name": "Southwest",
+                    "name": "美国西南航空",
                     "texture": [
                         "/models/aircraft/premium/737_700/specular.jpg",
                         "/models/aircraft/premium/737_700/texture_3.jpg"
@@ -370,7 +370,7 @@
                     "credits": "GeoFS"
                 },
                 {
-                    "name": "WestJet (old design)",
+                    "name": "西捷航空（old design)",
                     "texture": [
                         "/models/aircraft/premium/737_700/specular.jpg",
                         "/models/aircraft/premium/737_700/texture_4.jpg"
@@ -378,7 +378,7 @@
                     "credits": "GeoFS"
                 },
                 {
-                    "name": "GOL",
+                    "name": "巴西高尔航空",
                     "texture": [
                         "/models/aircraft/premium/737_700/specular.jpg",
                         "/models/aircraft/premium/737_700/texture_5.jpg"
@@ -386,7 +386,7 @@
                     "credits": "GeoFS"
                 },
                 {
-                    "name": "Ryanair",
+                    "name": "瑞安航空",
                     "texture": [
                         "/models/aircraft/premium/737_700/specular.jpg",
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b737-700/ryanair.png"
@@ -426,7 +426,7 @@
                     "credits": "iuhairways"
                 },
                 {
-                    "name": "Delta",
+                    "name": "达美航空",
                     "texture": [
                         "/models/aircraft/premium/737_700/specular.jpg",
                         "https://138772948-227015667470610340.preview.editmysite.com/uploads/1/3/8/7/138772948/texture_4.png"
@@ -474,7 +474,7 @@
                     "credits": "iuhairways"
                 },
                 {
-                    "name": "WestJet (new design)",
+                    "name": "西捷航空（new design)",
                     "texture": [
                         "/models/aircraft/premium/737_700/specular.jpg",
                         "https://138772948-227015667470610340.preview.editmysite.com/uploads/1/3/8/7/138772948/westjet_new_livery.png"
@@ -543,7 +543,7 @@
                     ]
                 },
                 {
-                    "name": "United (new design)",
+                    "name": "美国联合航空（new design)",
                     "texture": [
                         "/models/aircraft/premium/737_700/specular.jpg",
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b737-700/unitednew.jpg"
@@ -578,7 +578,7 @@
                     ]
                 },
                 {
-                    "name": "KLM (new design)",
+                    "name": "荷兰皇家航空 (new design)",
                     "texture": [
                         "/models/aircraft/premium/737_700/specular.jpg",
                         "https://i.ibb.co/Bwc8XgS/b737-700.jpg"
@@ -592,21 +592,21 @@
                     ]
                 },
                 {
-                    "name": "United (Star Alliance livery)",
+                    "name": "美国联合航空（Star Alliance livery)",
                     "texture": [
                         "/models/aircraft/premium/737_700/specular.jpg",
                         "https://i.ibb.co/ZWDTvvN/b737-700.jpg"
                     ]
                 },
                 {
-                    "name": "WestJet (old design - new logo)",
+                    "name": "西捷航空（old design - new logo)",
                     "texture": [
                         "/models/aircraft/premium/737_700/specular.jpg",
                         "https://i.ibb.co/nj0VLKF/texture-4-1.jpg"
                     ]
                 },
                 {
-                    "name": "WestJet (Tartan design)",
+                    "name": "西捷航空（Tartan design)",
                     "texture": [
                         "/models/aircraft/premium/737_700/specular.jpg",
                         "https://i.ibb.co/rww1TpD/texture-4-1.jpg"
@@ -1020,7 +1020,7 @@
                     "credits": "luca b"
                 },
                 {
-                    "name": "China Southern",
+                    "name": "中国南方航空",
                     "texture": [
                         "/models/aircraft/premium/737_700/specular.jpg",
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b737-700/chinasouthern.png"
@@ -1889,7 +1889,7 @@
                     "credits": "frederikvl"
                 },
                 {
-                    "name": "ANA",
+                    "name": "全日空航空",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/dhc6_twinotter/ana/main.jpg",
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/dhc6_twinotter/ana/left.jpg",
@@ -2200,7 +2200,7 @@
                     "credits": "Androway"
                 },
                 {
-                    "name": "China Southern",
+                    "name": "中国南方航空",
                     "texture": [
                         "/models/aircraft/premium/a380/specular.jpg",
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a380/chinasouthern.jpg"
@@ -2257,7 +2257,7 @@
                     ]
                 },
                 {
-                    "name": "ANA",
+                    "name": "全日空航空",
                     "texture": [
                         "/models/aircraft/premium/a380/specular.jpg",
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a380/ana.png"
@@ -2938,7 +2938,7 @@
                     "credits": "Jeffa"
                 },
                 {
-                    "name": "United (planned livery)",
+                    "name": "美国联合航空（planned livery)",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/concorde/United_Concorde.png"
                     ],
@@ -4204,7 +4204,7 @@
                     ]
                 },
                 {
-                    "name": "United (2019- design)",
+                    "name": "美国联合航空（2019- design)",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b767-300er/united.png",
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b767-300er/united.png",
@@ -4288,7 +4288,7 @@
                     ]
                 },
                 {
-                    "name": "Delta",
+                    "name": "达美航空",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b767-300er/delta.png",
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b767-300er/delta.png",
@@ -5431,7 +5431,7 @@
                     "credits": "luca b"
                 },
                 {
-                    "name": "KLM (old design)",
+                    "name": "荷兰皇家航空 (old design)",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b767-300er/klmold763.png",
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b767-300er/klmold763.png",
@@ -5446,7 +5446,7 @@
                     "credits": "Androway"
                 },
                 {
-                    "name": "KLM (old design)",
+                    "name": "荷兰皇家航空 (old design)",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b767-300er/Vietnam-Airlines-B763-old-design.png",
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b767-300er/Vietnam-Airlines-B763-old-design.png",
@@ -5855,7 +5855,7 @@
             ],
             "liveries": [
                 {
-                    "name": "Delta",
+                    "name": "达美航空",
                     "texture": [
                         "/backend/aircraft/repository/GXD04N_126645_238/texture.png",
                         "/backend/aircraft/repository/GXD04N_126645_238/texture.png",
@@ -6063,7 +6063,7 @@
                     ]
                 },
                 {
-                    "name": "United",
+                    "name": "联合航空",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b757-200/united.jpg",
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b757-200/united.jpg",
@@ -7236,7 +7236,7 @@
                     ]
                 },
                 {
-                    "name": "Delta",
+                    "name": "达美航空",
                     "texture": [
                         "https://i.ibb.co/9hnJPT2/texture.jpg",
                         "https://i.ibb.co/9hnJPT2/texture.jpg",
@@ -7306,7 +7306,7 @@
                     ]
                 },
                 {
-                    "name": "China Southern",
+                    "name": "中国南方航空",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a350-900/chinasouthern.png",
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a350-900/chinasouthern.png",
@@ -7546,7 +7546,7 @@
                     ]
                 },
                 {
-                    "name": "Delta",
+                    "name": "达美航空",
                     "texture": [
                         "/backend/aircraft/repository/Philpians%20a319_230250_2879/texture_93.jpg"
                     ]
@@ -7608,7 +7608,7 @@
                     ]
                 },
                 {
-                    "name": "American Airlines",
+                    "name": "美国航空",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a319-100/A319_AA_Livery.png"
                     ],
@@ -7783,7 +7783,7 @@
                     ]
                 },
                 {
-                    "name": "United (old design)",
+                    "name": "美国联合航空（old design)",
                     "texture": [
                         "https://raw.githubusercontent.com/Spice9/stuff2/main/United_a319_old.png"
                     ]
@@ -7987,13 +7987,13 @@
                     ]
                 },
                 {
-                    "name": "United (new design)",
+                    "name": "美国联合航空（new design)",
                     "texture": [
                         "https://raw.githubusercontent.com/Spice9/stuff2/main/t611.png"
                     ]
                 },
                 {
-                    "name": "United (Tulip design)",
+                    "name": "美国联合航空（Tulip design)",
                     "texture": [
                         "https://raw.githubusercontent.com/Spice9/stuff2/main/t612.png"
                     ]
@@ -8586,7 +8586,7 @@
                     ]
                 },
                 {
-                    "name": "RyanAir",
+                    "name": "瑞安航空",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/ATR_72-600/ryanair.jpg"
                     ]
@@ -8809,7 +8809,7 @@
                     ]
                 },
                 {
-                    "name": "China Southern",
+                    "name": "中国南方航空",
                     "credits": "Class323",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/ATR_72-600/chinasouth.png"
@@ -9054,7 +9054,7 @@
                     "credits": "Ivan Dimitrev"
                 },
                 {
-                    "name": "KLM UK",
+                    "name": "荷兰皇家航空 UK",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/ATR_72-600/ATR72-600-KLM-UK-G-UKTN.png"
                     ],
@@ -9199,7 +9199,7 @@
                     "credits": "luca b"
                 },
                 {
-                    "name": "KLM",
+                    "name": "荷兰皇家航空",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a350-1000/klm.png"
                     ],
@@ -9261,7 +9261,7 @@
                     "credits": "luca b"
                 },
                 {
-                    "name": "KLM Cargo",
+                    "name": "荷兰皇家航空 Cargo",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a350-1000/KLM_Cargo_A350F.png"
                     ],
@@ -9383,7 +9383,7 @@
                     ]
                 },
                 {
-                    "name": "KLM",
+                    "name": "荷兰皇家航空",
                     "texture": [
                         "/backend/aircraft/repository/Boeing 787-10 Dreamliner (ANA)_427352_3575/texture_52.jpg"
                     ]
@@ -9451,7 +9451,7 @@
                     "credits": "Habsfan1909"
                 },
                 {
-                    "name": "American Airlines",
+                    "name": "美国航空",
                     "texture": [
                         "/backend/aircraft/repository/Boeing 787-10 Dreamliner (ANA)_427352_3575/texture_63.jpg"
                     ]
@@ -9517,7 +9517,7 @@
                     ]
                 },
                 {
-                    "name": "United",
+                    "name": "联合航空",
                     "texture": [
                         "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_234.jpg"
                     ]
@@ -9529,7 +9529,7 @@
                     ]
                 },
                 {
-                    "name": "ANA",
+                    "name": "全日空航空",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b787-9/ANA 787-9.png"
                     ],
@@ -9612,7 +9612,7 @@
                     ]
                 },
                 {
-                    "name": "WestJet",
+                    "name": "西捷航空",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b787-9/westjet.png"
                     ]
@@ -9642,7 +9642,7 @@
                     ]
                 },
                 {
-                    "name": "China Southern",
+                    "name": "中国南方航空",
                     "texture": [
                         "https://raw.githubusercontent.com/Spice9/stuff2/main/China_Southern_787-9_Final.png "
                     ]
@@ -9654,7 +9654,7 @@
                     ]
                 },
                 {
-                    "name": "United (retro livery)",
+                    "name": "美国联合航空（retro livery)",
                     "texture": [
                         "https://raw.githubusercontent.com/Spice9/stuff2/main/United%20Saul%20Bass%20787-9.png"
                     ]
@@ -9852,7 +9852,7 @@
                     ]
                 },
                 {
-                    "name": "WestJet (new design)",
+                    "name": "西捷航空（new design)",
                     "texture": [
                         "https://raw.githubusercontent.com/Spice9/stuff2/main/Westjet%20787-9.png"
                     ]
@@ -9998,7 +9998,7 @@
                     ]
                 },
                 {
-                    "name": "United",
+                    "name": "联合航空",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b787-9/united.png"
                     ]
@@ -10235,7 +10235,7 @@
                     "credits": "luca b"
                 },
                 {
-                    "name": "KLM (unpainted)",
+                    "name": "荷兰皇家航空 (unpainted)",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b787-9/PH-BHA (Unpainted).jpg"
                     ],
@@ -10445,7 +10445,7 @@
                     "credits": "Androway"
                 },
                 {
-                    "name": "American Airlines",
+                    "name": "美国航空",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a320-214/american.png"
                     ],
@@ -10648,7 +10648,7 @@
                     "credits": "luca b"
                 },
                 {
-                    "name": "China Southern",
+                    "name": "中国南方航空",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a320-214/China Southern A320.png"
                     ],
@@ -11306,7 +11306,7 @@
                     "credits": "Spice9"
                 },
                 {
-                    "name": "Delta",
+                    "name": "达美航空",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a320-214/delta.png"
                     ],
@@ -11404,7 +11404,7 @@
                     "credits": "whois无名氏[Sino Wings Group]"
                 },
                 {
-                    "name": "ANA",
+                    "name": "全日空航空",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a320-214/ANAa320.png"
                     ],
@@ -12556,7 +12556,7 @@
                     ]
                 },
                 {
-                    "name": "Delta",
+                    "name": "达美航空",
                     "texture": [
                         "https://raw.githubusercontent.com/Spice9/stuff2/main/DAL_A220.png"
                     ]
@@ -12660,7 +12660,7 @@
                     "credits": "Nighthearth"
                 },
                 {
-                    "name": "Ryanair (planned livery)",
+                    "name": "瑞安航空（planned livery)",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a220-300/ryanair.jpg"
                     ],
@@ -12946,7 +12946,7 @@
                     ]
                 },
                 {
-                    "name": "United",
+                    "name": "联合航空",
                     "texture": [
                         "/backend/aircraft/repository/airbus%20a320-214%20(Easyjet)_427352_2871/texture_110.jpg"
                     ]
@@ -13036,7 +13036,7 @@
                     ]
                 },
                 {
-                    "name": "China Southern",
+                    "name": "中国南方航空",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a320neo/chinasouthern.png"
                     ],
@@ -13134,7 +13134,7 @@
                     ]
                 },
                 {
-                    "name": "KLM",
+                    "name": "荷兰皇家航空",
                     "texture": [
                         "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_245.5.jpg"
                     ]
@@ -13566,7 +13566,7 @@
                     ]
                 },
                 {
-                    "name": "Delta",
+                    "name": "达美航空",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a320neo/delta.png"
                     ]
@@ -14085,7 +14085,7 @@
                     ]
                 },
                 {
-                    "name": "United",
+                    "name": "联合航空",
                     "texture": [
                         "/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_7.jpg"
                     ]
@@ -14145,7 +14145,7 @@
                     ]
                 },
                 {
-                    "name": "WestJet (new design)",
+                    "name": "西捷航空（new design)",
                     "texture": [
                         "/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_17.2.jpg"
                     ]
@@ -14163,7 +14163,7 @@
                     ]
                 },
                 {
-                    "name": "American Airlines",
+                    "name": "美国航空",
                     "texture": [
                         "/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_20.jpg"
                     ]
@@ -14213,7 +14213,7 @@
                     ]
                 },
                 {
-                    "name": "Southwest",
+                    "name": "美国西南航空",
                     "texture": [
                         "/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_163.jpg"
                     ]
@@ -14225,7 +14225,7 @@
                     ]
                 },
                 {
-                    "name": "WestJet (old design)",
+                    "name": "西捷航空（old design)",
                     "texture": [
                         "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_212.5.jpg"
                     ]
@@ -14267,7 +14267,7 @@
                     ]
                 },
                 {
-                    "name": "United (Star Wars - The rise of Skywalker livery)",
+                    "name": "美国联合航空（Star Wars - The rise of Skywalker livery)",
                     "texture": [
                         "https://i.ibb.co/j8FnqhK/United-Star-Wars-737-Max-8.png"
                     ]
@@ -14369,7 +14369,7 @@
                     ]
                 },
                 {
-                    "name": "GOL",
+                    "name": "巴西高尔航空",
                     "texture": [
                         "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_367.png"
                     ]
@@ -14421,7 +14421,7 @@
                     "credits": "Coolpilot11"
                 },
                 {
-                    "name": "China Southern",
+                    "name": "中国南方航空",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b737-max8/chinasouthern.png"
                     ],
@@ -14529,7 +14529,7 @@
                     "credits": "Nichy"
                 },
                 {
-                    "name": "United (wavy design)",
+                    "name": "美国联合航空（wavy design)",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b737-max8/wavyunited.png"
                     ],
@@ -14674,7 +14674,7 @@
                     ]
                 },
                 {
-                    "name": "United",
+                    "name": "联合航空",
                     "texture": [
                         "/backend/aircraft/repository/Boeing 787-10 Dreamliner (Etihad)_427352_3180/texture_43.jpg"
                     ]
@@ -14772,7 +14772,7 @@
                     ]
                 },
                 {
-                    "name": "ANA",
+                    "name": "全日空航空",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b787-10/ana.png"
                     ]
@@ -14784,7 +14784,7 @@
                     ]
                 },
                 {
-                    "name": "United",
+                    "name": "联合航空",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b787-10/united.png"
                     ]
@@ -14821,7 +14821,7 @@
                     "credits": "Androway"
                 },
                 {
-                    "name": "KLM (Timeline livery - Mees Jansen's concept)",
+                    "name": "荷兰皇家航空 (Timeline livery - Mees Jansen's concept)",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b787-10/KLM_100_Years_Concept_787-10.png"
                     ],
@@ -14849,14 +14849,14 @@
                     "credits": "Androway"
                 },
                 {
-                    "name": "KLM",
+                    "name": "荷兰皇家航空",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b787-10/KLM 787-10.png"
                     ],
                     "credits": "luca b"
                 },
                 {
-                    "name": "KLM (100th anniversary livery)",
+                    "name": "荷兰皇家航空 (100th anniversary livery)",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b787-10/KLM 787-10 100 Years.png"
                     ],
@@ -15004,7 +15004,7 @@
                     "credits": "luca b"
                 },
                 {
-                    "name": "Delta",
+                    "name": "达美航空",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_crj700/delta/image0.png",
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_crj700/delta/image1.png",
@@ -15181,14 +15181,14 @@
                     ]
                 },
                 {
-                    "name": "KLM",
+                    "name": "荷兰皇家航空",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b737-800/KLM 737-800 No 100.png"
                     ],
                     "credits": "luca b"
                 },
                 {
-                    "name": "KLM (100th anniversary livery)",
+                    "name": "荷兰皇家航空 (100th anniversary livery)",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b737-800/KLM 737-800.png"
                     ],
@@ -15338,13 +15338,13 @@
                     ]
                 },
                 {
-                    "name": "Delta",
+                    "name": "达美航空",
                     "texture": [
                         "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_291.5.jpg"
                     ]
                 },
                 {
-                    "name": "Westjet",
+                    "name": "西捷航空",
                     "texture": [
                         "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_293.5.jpg"
                     ]
@@ -15374,7 +15374,7 @@
                     ]
                 },
                 {
-                    "name": "Southwest",
+                    "name": "美国西南航空",
                     "texture": [
                         "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_297.5.jpg"
                     ]
@@ -15446,7 +15446,7 @@
                     ]
                 },
                 {
-                    "name": "KLM (retro livery)",
+                    "name": "荷兰皇家航空 (retro livery)",
                     "texture": [
                         "https://raw.githubusercontent.com/Spice9/stuff2/main/KLM_retro_737-800.png"
                     ]
@@ -15833,7 +15833,7 @@
                     ]
                 },
                 {
-                    "name": "GOL (new design)",
+                    "name": "巴西高尔航空（new design)",
                     "texture": [
                         "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_365.png"
                     ]
@@ -15863,20 +15863,20 @@
                     ]
                 },
                 {
-                    "name": "China Southern",
+                    "name": "中国南方航空",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b737-800/chinasouthern.png"
                     ],
                     "credits": "whois无名氏[Sino Wings Group]"
                 },
                 {
-                    "name": "GOL (old design)",
+                    "name": "巴西高尔航空（old design)",
                     "texture": [
                         "https://raw.githubusercontent.com/Spice9/stuff2/main/GOL%20Old%20738.png"
                     ]
                 },
                 {
-                    "name": "GOL (10 year Anos livery)",
+                    "name": "巴西高尔航空（10 year Anos livery)",
                     "texture": [
                         "https://raw.githubusercontent.com/Spice9/stuff2/main/GOL%2010%20Anos%20738.png"
                     ]
@@ -15936,7 +15936,7 @@
                     ]
                 },
                 {
-                    "name": "United (old design)",
+                    "name": "美国联合航空（old design)",
                     "texture": [
                         "https://raw.githubusercontent.com/Spice9/stuff2/main/United%20737-800%20Old.png"
                     ]
@@ -15961,7 +15961,7 @@
                     "credits": "whois无名氏[Sino Wings Group]"
                 },
                 {
-                    "name": "United (new design)",
+                    "name": "美国联合航空（new design)",
                     "texture": [
                         "https://raw.githubusercontent.com/Spice9/stuff2/main/United%20737-800%20New.png"
                     ]
@@ -15991,7 +15991,7 @@
                     ]
                 },
                 {
-                    "name": "Ryanair (old design)",
+                    "name": "瑞安航空（old design)",
                     "texture": [
                         "https://raw.githubusercontent.com/Spice9/stuff2/main/Ryanair%20737-800%20Old.png"
                     ]
@@ -16631,7 +16631,7 @@
                     "credits": "luca b"
                 },
                 {
-                    "name": "Ryanair",
+                    "name": "瑞安航空",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b737-800/Ryanair 737-800.png"
                     ],
@@ -17002,7 +17002,7 @@
                     "credits": "luca b"
                 },
                 {
-                    "name": "KLM (SkyTeam livery)",
+                    "name": "荷兰皇家航空 (SkyTeam livery)",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b737-800/klmsky.jpg"
                     ],
@@ -17500,19 +17500,19 @@
                     ]
                 },
                 {
-                    "name": "Ryanair",
+                    "name": "瑞安航空",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b737-200/ryanair.png"
                     ]
                 },
                 {
-                    "name": "Ryanair (Santa Strike livery)",
+                    "name": "瑞安航空（Santa Strike livery)",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b737-200/ryanairsantastrike.png"
                     ]
                 },
                 {
-                    "name": "American Airlines",
+                    "name": "美国航空",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b737-200/american.png"
                     ]
@@ -17677,7 +17677,7 @@
                     "credits": "luca b"
                 },
                 {
-                    "name": "ANA",
+                    "name": "全日空航空",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b737-200/ANA 737-200.png"
                     ],
@@ -18125,7 +18125,7 @@
                     "credits": "Habsfan1909"
                 },
                 {
-                    "name": "KLM",
+                    "name": "荷兰皇家航空",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b737-200/klm732.png"
                     ],
@@ -18657,14 +18657,14 @@
                     "credits": "luca b"
                 },
                 {
-                    "name": "Ryanair (Jaguar Logojet livery)",
+                    "name": "瑞安航空（Jaguar Logojet livery)",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b737-200/Ryanair_Jaguar_logojet.png"
                     ],
                     "credits": "lateaviationfan"
                 },
                 {
-                    "name": "Ryanair (Eircell Logojet livery)",
+                    "name": "瑞安航空（Eircell Logojet livery)",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b737-200/Eircell_Logojet_Ryanair.png"
                     ],
@@ -18811,7 +18811,7 @@
                     "credits": "luca b"
                 },
                 {
-                    "name": "China Southern",
+                    "name": "中国南方航空",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b737-200/China_Southern_737-200.png"
                     ],
@@ -18946,7 +18946,7 @@
                     ]
                 },
                 {
-                    "name": "WestJet",
+                    "name": "西捷航空",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_dash8-q400/westjet.png",
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_dash8-q400/westjet.png",
@@ -18973,7 +18973,7 @@
                     ]
                 },
                 {
-                    "name": "ANA",
+                    "name": "全日空航空",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_dash8-q400/ANAwings.png",
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_dash8-q400/ANAwings.png",
@@ -19188,7 +19188,7 @@
                     ]
                 },
                 {
-                    "name": "China Southern",
+                    "name": "中国南方航空",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/britten-norman_BN2/chinasouthern.png"
                     ],
@@ -19331,13 +19331,13 @@
                     ]
                 },
                 {
-                    "name": "WestJet (old design - new logo)",
+                    "name": "西捷航空（old design - new logo)",
                     "texture": [
                         "https://raw.githubusercontent.com/Spice9/stuff2/main/10.jpg"
                     ]
                 },
                 {
-                    "name": "WestJet (old design)",
+                    "name": "西捷航空（old design)",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/SAAB_340/westjet.png"
                     ]
@@ -19422,7 +19422,7 @@
                     "credits": "QuebecAviationYT"
                 },
                 {
-                    "name": "China Southern",
+                    "name": "中国南方航空",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/SAAB_340/China_Southern_Saab.png"
                     ],
@@ -19737,7 +19737,7 @@
                     "credits": "Nichy"
                 },
                 {
-                    "name": "KLM Cityhopper",
+                    "name": "荷兰皇家航空 Cityhopper",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/SAAB_340/KLM_Cityhopper_Saab_340.png"
                     ],
@@ -20174,7 +20174,7 @@
                     "credits": "LAC"
                 },
                 {
-                    "name": "Delta",
+                    "name": "达美航空",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_crj200/DELTA_3.png",
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_crj200/DELTA_3.png"
@@ -20529,7 +20529,7 @@
                     "credits": "GeoFS"
                 },
                 {
-                    "name": "Delta",
+                    "name": "达美航空",
                     "texture": [
                         "/models/aircraft/premium/a350/specular.jpg",
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a350-900Delta_Airlines_A350-900.jpg"
@@ -20678,7 +20678,7 @@
                     "credits": "abaca_193"
                 },
                 {
-                    "name": "China Southern",
+                    "name": "中国南方航空",
                     "texture": [
                         "/models/aircraft/premium/a350/specular.jpg",
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a350-900/southern.png"
@@ -20812,7 +20812,7 @@
                     ]
                 },
                 {
-                    "name": "United",
+                    "name": "联合航空",
                     "texture": [
                         "/models/aircraft/premium/a350/specular.jpg",
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a350-900/united.png"
@@ -20859,7 +20859,7 @@
                     "credits": "bilibili開飛機のzm[Sino Wings Group]"
                 },
                 {
-                    "name": "China Southern",
+                    "name": "中国南方航空",
                     "texture": [
                         "/models/aircraft/premium/a350/specular.jpg",
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a350-900/chinasouthern.jpg"
@@ -21598,7 +21598,7 @@
                     ]
                 },
                 {
-                    "name": "Delta",
+                    "name": "达美航空",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a330-900neo/delta.png"
                     ],
@@ -21910,7 +21910,7 @@
                     "credits": "Youtube VR PoZz"
                 },
                 {
-                    "name": "KLM",
+                    "name": "荷兰皇家航空",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a330-900neo/KLM339.png"
                     ],
@@ -22365,7 +22365,7 @@
                     "credits": "Coolpilot11"
                 },
                 {
-                    "name": "United",
+                    "name": "联合航空",
                     "texture": [
                         "https://raw.githubusercontent.com/Spice9/stuff2/main/9luca_untd.jpg"
                     ],
@@ -22434,7 +22434,7 @@
                     "credits": "luca b"
                 },
                 {
-                    "name": "China Southern",
+                    "name": "中国南方航空",
                     "texture": [
                         "https://raw.githubusercontent.com/Spice9/stuff2/main/20cp11_chinasouth.jpg"
                     ],
@@ -22669,7 +22669,7 @@
                     "credits": "luca b"
                 },
                 {
-                    "name": "ANA",
+                    "name": "全日空航空",
                     "texture": [
                         "https://raw.githubusercontent.com/Spice9/stuff2/main/53luca-ana.jpg"
                     ],
@@ -22748,7 +22748,7 @@
                     ]
                 },
                 {
-                    "name": "American Airlines",
+                    "name": "美国航空",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a321neo/AA_livery_finished.png"
                     ],
@@ -22852,7 +22852,7 @@
                     ]
                 },
                 {
-                    "name": "KLM",
+                    "name": "荷兰皇家航空",
                     "texture": [
                         "https://raw.githubusercontent.com/Spice9/stuff2/main/KLM%20A321neo.png"
                     ]
@@ -23255,7 +23255,7 @@
                     "credits": "concordeandferrarifan"
                 },
                 {
-                    "name": "Delta",
+                    "name": "达美航空",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a321neo/delta321neo-liv.png"
                     ],
@@ -23487,7 +23487,7 @@
                     ]
                 },
                 {
-                    "name": "Delta",
+                    "name": "达美航空",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b757-300wl/Delta.jpg"
                     ]
@@ -23499,7 +23499,7 @@
                     ]
                 },
                 {
-                    "name": "United Airlines",
+                    "name": "联合航空",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b757-300wl/United.jpg"
                     ]
@@ -23666,7 +23666,7 @@
                     ]
                 },
                 {
-                    "name": "United Airlines",
+                    "name": "联合航空",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b757-300wl/United.jpg"
                     ]
@@ -23894,7 +23894,7 @@
                     ]
                 },
                 {
-                    "name": "KLM (new design)",
+                    "name": "荷兰皇家航空 (new design)",
                     "texture": [
                         "/models/aircraft/premium/777_300/specular_0.jpg",
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/klm.jpg"
@@ -23944,14 +23944,14 @@
                     ]
                 },
                 {
-                    "name": "United (old design)",
+                    "name": "美国联合航空（old design)",
                     "texture": [
                         "/models/aircraft/premium/777_300/specular_0.jpg",
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/unitedold.png"
                     ]
                 },
                 {
-                    "name": "United (new design)",
+                    "name": "美国联合航空（new design)",
                     "texture": [
                         "/models/aircraft/premium/777_300/specular_0.jpg",
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/unitednew.png"
@@ -24001,7 +24001,7 @@
                     ]
                 },
                 {
-                    "name": "China Southern",
+                    "name": "中国南方航空",
                     "texture": [
                         "/models/aircraft/premium/777_300/specular_0.jpg",
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/chinasouthern.png"
@@ -24189,7 +24189,7 @@
                     ]
                 },
                 {
-                    "name": "United (Star Alliance livery)",
+                    "name": "美国联合航空（Star Alliance livery)",
                     "texture": [
                         "/models/aircraft/premium/777_300/specular_0.jpg",
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/unitedstar.png"
@@ -24435,7 +24435,7 @@
                     ]
                 },
                 {
-                    "name": "KLM (old design)",
+                    "name": "荷兰皇家航空 (old design)",
                     "texture": [
                         "/models/aircraft/premium/777_300/specular_0.jpg",
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/klmold.png"
@@ -24515,14 +24515,14 @@
                     ]
                 },
                 {
-                    "name": "KLM (orange pride livery)",
+                    "name": "荷兰皇家航空 (orange pride livery)",
                     "texture": [
                         "/models/aircraft/premium/777_300/specular_0.jpg",
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/KLM_Orange_Pride.png"
                     ]
                 },
                 {
-                    "name": "KLM Asia",
+                    "name": "荷兰皇家航空 Asia",
                     "texture": [
                         "/models/aircraft/premium/777_300/specular_0.jpg",
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/klmasia.png"
@@ -24674,7 +24674,7 @@
                     ]
                 },
                 {
-                    "name": "ANA",
+                    "name": "全日空航空",
                     "texture": [
                         "/models/aircraft/premium/777_300/specular_0.jpg",
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/ana.jpg"
@@ -24783,7 +24783,7 @@
                     "credits": "Androway"
                 },
                 {
-                    "name": "Delta",
+                    "name": "达美航空",
                     "texture": [
                         "/models/aircraft/premium/777_300/specular_0.jpg",
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/delta.jpg"
@@ -25118,7 +25118,7 @@
                     ]
                 },
                 {
-                    "name": "KLM (SkyTeam livery)",
+                    "name": "荷兰皇家航空 (SkyTeam livery)",
                     "credits": "luca b",
                     "texture": [
                         "/models/aircraft/premium/777_300/specular_0.jpg",
@@ -25882,13 +25882,13 @@
             ],
             "liveries": [
                 {
-                    "name": "United (Star Alliance livery)",
+                    "name": "美国联合航空（Star Alliance livery)",
                     "texture": [
                         "https://raw.githubusercontent.com/Spice9/stuff2/main/untdstr.png"
                     ]
                 },
                 {
-                    "name": "Delta",
+                    "name": "达美航空",
                     "texture": [
                         "https://raw.githubusercontent.com/Spice9/stuff2/main/Delta%20767-400ER.png"
                     ]
@@ -25918,19 +25918,19 @@
                     ]
                 },
                 {
-                    "name": "United (old design)",
+                    "name": "美国联合航空（old design)",
                     "texture": [
                         "https://raw.githubusercontent.com/Spice9/stuff2/main/United%20767-400ER.png"
                     ]
                 },
                 {
-                    "name": "United (new design)",
+                    "name": "美国联合航空（new design)",
                     "texture": [
                         "https://raw.githubusercontent.com/Spice9/stuff2/main/United%20New%20767-400ER.png"
                     ]
                 },
                 {
-                    "name": "United (Tulip design)",
+                    "name": "美国联合航空（Tulip design)",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b767-400er/United_Blue_Tulip_767-400ER.png"
                     ]
@@ -26120,7 +26120,7 @@
                     "credits": "Androway"
                 },
                 {
-                    "name": "ANA",
+                    "name": "全日空航空",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b767-400er/ana764.png"
                     ],
@@ -26511,7 +26511,7 @@
                     "credits": "Androway"
                 },
                 {
-                    "name": "American Airlines",
+                    "name": "美国航空",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a321-211/AmericanA321.png"
                     ],
@@ -26763,7 +26763,7 @@
                     "credits": "luca b"
                 },
                 {
-                    "name": "China Southern",
+                    "name": "中国南方航空",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a321-211/China Southern A321.png"
                     ],
@@ -26812,7 +26812,7 @@
                     "credits": "luca b"
                 },
                 {
-                    "name": "Delta",
+                    "name": "达美航空",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a321-211/Delta A321.png"
                     ],
@@ -27134,7 +27134,7 @@
                     "credits": "luca b"
                 },
                 {
-                    "name": "American",
+                    "name": "美国航空",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a321-211/American A321.png"
                     ],
@@ -28940,7 +28940,7 @@
                     "credits": "Philavia744"
                 },
                 {
-                    "name": "KLM (old design)",
+                    "name": "荷兰皇家航空 (old design)",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a330-200/KLM_Old_A332.png"
                     ],
@@ -28982,7 +28982,7 @@
                     "credits": "luca b"
                 },
                 {
-                    "name": "Delta",
+                    "name": "达美航空",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a330-200/Delta_A332.png"
                     ],
@@ -29031,7 +29031,7 @@
                     "credits": "luca b"
                 },
                 {
-                    "name": "KLM (new design)",
+                    "name": "荷兰皇家航空 (new design)",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a330-200/KLM_A332.png"
                     ],
@@ -29248,7 +29248,7 @@
                     "credits": "Androway"
                 },
                 {
-                    "name": "American Airlines",
+                    "name": "美国航空",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a330-200/american332.png"
                     ],
@@ -30487,7 +30487,7 @@
                     "credits": "luca b"
                 },
                 {
-                    "name": "China Southern",
+                    "name": "中国南方航空",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a318-112/China Southern A318.png"
                     ],
@@ -30764,7 +30764,7 @@
             ],
             "liveries": [
                 {
-                    "name": "Delta Air Lines",
+                    "name": "达美航空",
                     "texture": [
                         "/backend/aircraft/repository/Lockheed%20L-1011-1_450602_5038/L1011BaseComposite.jpg",
                         "/backend/aircraft/repository/Lockheed%20L-1011-1_450602_5038/LUDIMMetalComposite%201-L1011RoughCompositeScaled.jpg",
@@ -30845,7 +30845,7 @@
                     "credits": "HO1076[Sino Wings Group]"
                 },
                 {
-                    "name": "ANA",
+                    "name": "全日空航空",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/lockheed_L1011-1_TriStar/ANA-L-1011.jpg",
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/lockheed_L1011-1_TriStar/shaders/prototype.png",
@@ -30890,7 +30890,7 @@
                     "credits": "frederikvl"
                 },
                 {
-                    "name": "American Airlines",
+                    "name": "美国航空",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/lockheed_L1011-1_TriStar/americanairlinesl1011.jpeg",
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/lockheed_L1011-1_TriStar/shaders/prototype.png",
@@ -31478,7 +31478,7 @@
                     "credits": "Jeffa"
                 },
                 {
-                    "name": "KLM (old design)",
+                    "name": "荷兰皇家航空 (old design)",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/KLM_Old_747-8.png",
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/wing/original.png"
@@ -31486,7 +31486,7 @@
                     "credits": "luca b"
                 },
                 {
-                    "name": "KLM (new design)",
+                    "name": "荷兰皇家航空 (new design)",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/KLM_747-8.png",
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/wing/original.png"
@@ -31910,7 +31910,7 @@
                     "credits": "Nichy"
                 },
                 {
-                    "name": "Delta",
+                    "name": "达美航空",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/delta747-8i.png",
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/wing/original.png"
@@ -32102,7 +32102,7 @@
                     "credits": "Nichy"
                 },
                 {
-                    "name": "ANA",
+                    "name": "全日空航空",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/ANA747.png",
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/wing/original.png"
@@ -32286,7 +32286,7 @@
                     "credits": "Androway"
                 },
                 {
-                    "name": "KLM (classic design)",
+                    "name": "荷兰皇家航空 (classic design)",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/klmretro747.png",
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/wing/original.png"
@@ -32718,7 +32718,7 @@
                     "credits": "Lego and Avgeek YT"
                 },
                 {
-                    "name": "United (old livery)",
+                    "name": "美国联合航空（old livery)",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/747united.png",
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/wing/original.png"
@@ -32726,7 +32726,7 @@
                     "credits": "Youtube VR PoZz"
                 },
                 {
-                    "name": "United (Blue Tulip design - Star Alliance livery)",
+                    "name": "美国联合航空（Blue Tulip design - Star Alliance livery)",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/United_Blue_Tulip_Star_Alliance_747.png",
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/wing/original.png"
@@ -33742,14 +33742,14 @@
                     "credits": "luca b"
                 },
                 {
-                    "name": "Westjet",
+                    "name": "西捷航空",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b737-600/Westjet 737-600.png"
                     ],
                     "credits": "luca b"
                 },
                 {
-                    "name": "Westjet (new design)",
+                    "name": "西捷航空（new design)",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b737-600/Westjet New 737-600.png"
                     ],
@@ -33833,7 +33833,7 @@
                     "credits": "whois无名氏[Sino Wings Group]"
                 },
                 {
-                    "name": "Ryanair",
+                    "name": "瑞安航空",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b737-600/Ryanair_737-600.png"
                     ],
